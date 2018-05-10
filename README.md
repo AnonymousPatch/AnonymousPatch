@@ -1,5 +1,10 @@
 This repo contains data and its appendix for our user study.
 
+## Repair tools used in the study ##
+* jGenProg and jKali, referring to the results reported in Martinez et. al.: "Automatic repair of real bugs in java: a large-scale experiment on the defects4j dataset" 
+* Nopol and S3
+* Angelix, Enumerative, and CVC4 embedded in JFix.
+
 ## Breakdown by project over 189 patches ##
 
 There are 10, 2, 66, 14, 43, 22 patches belonging to Time, Mockito, Math, Lang, Closure projects respectively. For other remaining projects, each project contains 3 or 4 patches (from dataset of S3 in FSE’17)
